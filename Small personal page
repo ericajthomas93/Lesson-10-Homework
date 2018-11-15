@@ -1,17 +1,20 @@
 <html>
 <head>
   <title>Erica has barely any idea what she's doing</title>
-  </head>
+</head>
 <body>
   <h1>page one</h1>
   <h3>Fun Facts</h3>
   <p>Hi there! I'm Erica Thomas. A goofy 25 year old who has <strong> no clue where her life is headed</strong> and who wants <em>nothing more</em>than to drink coffee and tea and snuggle my kitty cats.I have an <u>amazig</u> family and wonderful friends. in that regard, I wouldn't ask for anything less.</p>
+  
   <p><h3>Contact:</h3>
   <ul>
     <li><u><strong>Email</u>: ethomas118@ivytech.edu</li>
     <li><u><strong>Phone</u></strong>: 123-456-7890</li>
     <li><u><strong>Facebook</u></strong>: <a target="_blank" href="https://www.facebook.com/erica.thomas.5055">Erica.Thomas.5055</a>
+    </ul>
     <p><strong><u>My Fave Internet Corner:</strong></u></p>
     <a target="_blank" href="https://www.pinterest.com/><img src="https://www.pinterest.com/search/pins/?q=design&rs=typed&term_meta[]=design%7Ctyped"/></a>
+    
     </body>
     </html>
